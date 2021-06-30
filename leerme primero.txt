@@ -1,0 +1,1 @@
+solo pude realisar la base de datos y la conexion con el php con la cual estoy en duda si funcione
